@@ -1,0 +1,35 @@
+{
+  "name": "platzswords",
+  "version": "0.1.0",
+  "description": "Traductor de idioma platzom",
+  "main": "dist/src/platzom.js",
+  "scripts": {
+    "build": "babel src/platzom.js -d dist",
+    "test": "mocha "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dramoslance/platzom.git"
+  },
+  "keywords": [
+    "platzom",
+    "platzi",
+    "js",
+    "javascript\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+    "funda\u001b[2~e\u001b[2mentos",
+    "javascript",
+    "js"
+  ],
+  "author": "Dayans R <dramoslance@gmail.com> (https://twitter.com/dramosavila)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dramoslance/platzom/issues"
+  },
+  "homepage": "https://github.com/dramoslance/platzom#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.5.2",
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
